@@ -1,6 +1,6 @@
 # diary_decorate_house
 decorate my house 
-
+[TOC]
 
 ## 功能区划分
 * 出入口区
@@ -10,3 +10,11 @@ decorate my house
 * 卫浴区
 * 休息区
 * 工作区
+
+## 房屋禁忌
+列出所有应该注意的事项
+
+* 床边按镜，难以安眠 
+* 床头巨画大不宜
+* 床摆放的位置，不要对着门和窗
+
